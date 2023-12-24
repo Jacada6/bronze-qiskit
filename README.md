@@ -1,3 +1,7 @@
+# Imported to GitHub for convenience with Google Colab
+## Original repository can be found at QWorld's GitLab: https://gitlab.com/qworld/bronze-qiskit
+# _____
+
 ![](qworld/images/readme-logo.jpg)
 
 ## [QWorld](https://qworld.net)'s Bronze-Qiskit
